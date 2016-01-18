@@ -9,7 +9,7 @@ which is then written to disk, allowing the other "client" player to read said g
 As I said, the main emphasis of this project was to learn about drawing with the canvas API, not best practises for multiplayer real time gaming.
 That said, the multiplayer does work supprisingly well despite it's major flaws.
 
-[Play it here.](https://devweb2014.cis.strath.ac.uk/~prb12148/breakout/)
+[Play it here.](https://devweb2015.cis.strath.ac.uk/~prb12148/breakout/)
 
 Consists of the following three game modes:
 * Single player
